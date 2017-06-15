@@ -1,0 +1,60 @@
+h1{
+  text-align: center;
+  font-weight: bold;
+  clear: left;
+  padding-top: 15px;
+}
+img{
+  height: 500px;
+}
+nav ul {
+  list-style-type: none;
+}
+
+nav{
+  padding-left: 39%;
+}
+
+nav li {
+  float: left;
+  padding: 10px;
+}
+nav li a {
+  text-decoration: none;
+}
+nav li a:hover {
+  text-decoration: underline;
+}
+
+a:visited {
+  color: black;
+}
+
+p, li{
+  font-family: 'Patrick Hand SC', fantasy;
+}
+
+a{
+  font-family: 'Lobster', cursive;
+}
+
+h1, h2, h3 {
+  font-family: 'Lobster', cursive;
+}
+
+.ingList span {
+ font-size: 12px;
+ font-family: cursive;
+ }
+
+footer {
+  font-family: fantasy;
+}
+
+#steps li {
+  line-height: 50px;
+}
+
+html {
+  background-color: #A9F0D1;
+}
